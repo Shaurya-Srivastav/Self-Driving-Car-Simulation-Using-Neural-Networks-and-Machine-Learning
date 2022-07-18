@@ -7,5 +7,6 @@
   - The car's sensors can read the traffic.
   - if the car collides with the traffic, the car stops and turns grey as if it crashed.
  
+ 
 
 Made with the help and guidance from Dr. Radu Mariescu-Istodor!
