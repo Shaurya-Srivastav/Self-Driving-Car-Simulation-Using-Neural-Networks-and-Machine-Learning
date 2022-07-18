@@ -8,4 +8,4 @@
   - if the car collides with the traffic, the car stops and turns grey as if it crashed.
  
 
-* Made with the help of Dr. Radu Mariescu-Istodor! *
+Made with the help and guidance from Dr. Radu Mariescu-Istodor!
