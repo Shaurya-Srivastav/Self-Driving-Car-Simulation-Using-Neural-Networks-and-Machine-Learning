@@ -9,4 +9,4 @@
  
  
 
-Made with the help and guidance from Dr. Radu Mariescu-Istodor!
+**Made with the help and guidance from Dr. Radu Mariescu-Istodor!**
